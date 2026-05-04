@@ -2,7 +2,7 @@ import streamlit as st
 from google import genai
 
 # --- Config ---
-API_KEY = "AIzaSyA2pMxpHoUETawkLPWWPqQGiZYev8ZJgQA"
+API_KEY = st.secrets["GEMINI_API_KEY"]
 KB_FILE = "irctc document.txt"
 MODEL = "gemini-2.5-flash"
 
