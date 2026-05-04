@@ -1,0 +1,183 @@
+IRCTC CUSTOMER SERVICE KNOWLEDGE BASE
+======================================
+
+1. TICKET BOOKING
+------------------
+- Tickets can be booked online at www.irctc.co.in or via the IRCTC Rail Connect mobile app.
+- Users must register on IRCTC portal before booking tickets.
+- Booking opens 60 days in advance (excluding the date of journey).
+- Tatkal booking opens 1 day in advance (excluding date of journey).
+  - AC classes: Tatkal booking opens at 10:00 AM
+  - Non-AC classes: Tatkal booking opens at 11:00 AM
+- Maximum 6 passengers can be booked per transaction.
+- A user can book maximum 12 tickets per month (6 extra with Aadhaar-verified account).
+
+2. PAYMENT METHODS
+-------------------
+- Credit Card / Debit Card (Visa, MasterCard, RuPay)
+- Net Banking
+- UPI (Google Pay, PhonePe, Paytm, BHIM)
+- IRCTC iPay Wallet
+- EMI options available on select cards
+- No convenience fee on UPI payments up to ₹2000.
+- Convenience fee varies by payment method and class of travel.
+
+3. TICKET TYPES
+----------------
+- E-Ticket: Booked online, can be shown on mobile (no printout needed).
+- I-Ticket: Delivered by post (booking must be done 4-5 days in advance).
+- Counter Ticket: Booked at railway station counters.
+- Platform Ticket: For entry to platform without travel (costs ₹10).
+
+4. PNR STATUS
+--------------
+- PNR (Passenger Name Record) is a 10-digit number on your ticket.
+- Check PNR status at: www.irctc.co.in or SMS "PNR <number>" to 139.
+- Status types:
+  - CNF: Confirmed berth allotted
+  - WL: Waitlisted
+  - RAC: Reservation Against Cancellation (share berth)
+  - PQWL: Pooled Quota Waitlist
+  - GNWL: General Waitlist
+  - RLWL: Remote Location Waitlist
+
+5. CANCELLATION POLICY
+------------------------
+- E-tickets can be cancelled online via IRCTC website or app.
+- Counter tickets must be cancelled at railway counters.
+- Cancellation charges:
+  - AC First Class / Executive Class: ₹240 flat charge
+  - AC 2 Tier / First Class: ₹200 flat charge
+  - AC 3 Tier / AC Chair Car / AC 3 Economy: ₹180 flat charge
+  - Sleeper Class: ₹120 flat charge
+  - Second Class: ₹60 flat charge
+- No refund if cancelled less than 4 hours before departure.
+- Tatkal tickets: No refund on cancellation (except in special cases).
+- Waitlisted tickets cancelled automatically if not confirmed — full refund given.
+
+6. REFUND POLICY
+-----------------
+- Refunds are processed within 3-7 working days for online payments.
+- Refund is credited back to the original payment source.
+- TDR (Ticket Deposit Receipt) can be filed for special refund cases:
+  - Train cancelled by Railways
+  - Train running more than 3 hours late
+  - Passenger not travelled due to Railways fault
+- TDR must be filed within 72 hours of scheduled departure.
+
+7. TRAIN CLASSES
+-----------------
+- 1A – First AC: Most premium, 4 berths per coupe, full privacy
+- 2A – Second AC: 2-tier sleeper, curtains provided
+- 3A – Third AC: 3-tier sleeper, most popular
+- 3E – Third AC Economy: Budget 3-tier AC
+- FC – First Class: Non-AC, comfortable, lockable coupe
+- SL – Sleeper Class: Most common, non-AC, 8 berths per bay
+- 2S – Second Sitting: Non-AC seat, short journeys
+- CC – AC Chair Car: Reclining seats, used in Shatabdi/Vande Bharat
+- EC – Executive Chair Car: Premium seats in Shatabdi/Vande Bharat
+
+8. IRCTC ACCOUNT
+-----------------
+- Register at www.irctc.co.in with a valid email and mobile number.
+- OTP verification required during registration.
+- Aadhaar linking increases monthly ticket booking limit.
+- Password must be 8-15 characters with letters, numbers and special characters.
+- Account gets locked after 6 consecutive failed login attempts.
+- To unlock account: use "Forgot Password" or contact IRCTC helpdesk.
+
+9. SENIOR CITIZEN & CONCESSION
+--------------------------------
+- Senior Citizens (Men 60+, Women 58+) get concession on select trains.
+- Concession: 40% for men, 50% for women in most classes.
+- Concession currently suspended on most trains (check IRCTC for updates).
+- Other concessions available for: Students, Disabled persons, Cancer patients, Journalists, etc.
+- Concession must be selected at time of booking and ID proof must be shown during journey.
+
+10. TRAIN TYPES
+----------------
+- Rajdhani Express: Premium train connecting state capitals to New Delhi, fully AC.
+- Shatabdi Express: Day intercity train, fully AC, fast.
+- Duronto Express: Non-stop long distance train.
+- Vande Bharat Express: Modern semi-high speed, self-propelled, fully AC.
+- Garib Rath: Budget AC train with lower fares.
+- Superfast Express: Runs at higher speed, extra superfast surcharge applies.
+- Mail/Express: Regular trains connecting major cities.
+- Passenger/Ordinary: Slow, stops at every station, cheapest.
+- Jan Shatabdi: Cheaper version of Shatabdi, partially non-AC.
+
+11. LUGGAGE POLICY
+-------------------
+- Free luggage allowance per passenger:
+  - AC First Class: 70 kg
+  - AC 2 Tier / First Class: 50 kg
+  - AC 3 Tier / AC Chair Car: 40 kg
+  - Sleeper / Second Class: 40 kg
+- Excess luggage must be booked at the luggage office at the station.
+- Prohibited items: Flammable materials, explosives, acid, weapons.
+
+12. FOOD & CATERING
+--------------------
+- IRCTC provides e-catering service on selected trains.
+- Order food via: www.ecatering.irctc.co.in or call 1323.
+- Food can be ordered from restaurants at upcoming stations during the journey.
+- Pantry car available in most long-distance trains.
+- Rajdhani and Shatabdi trains include meals in ticket price.
+
+13. DIVYAANG (DIFFERENTLY ABLED) FACILITIES
+---------------------------------------------
+- Reserved quota for Divyaang passengers in all trains.
+- 75% concession for certain disability categories.
+- Wheelchair assistance available at major stations — request in advance.
+- Accessible coaches and facilities at major railway stations.
+
+14. RAILWAY PASS / SEASON TICKET
+----------------------------------
+- Monthly Season Tickets (MST) available for daily commuters.
+- Quarterly Season Tickets (QST) also available.
+- Available for Second Class and Sleeper Class on specific routes.
+- Must be purchased at railway counter with valid ID proof.
+
+15. LOST / MISPLACED TICKET
+-----------------------------
+- E-ticket: No issue — re-download from IRCTC website or app and show on mobile.
+- Counter ticket lost: File an indemnity bond at the nearest railway station.
+- A duplicate ticket may be issued at the station on payment of a fee.
+
+16. COMPLAINT & GRIEVANCE
+---------------------------
+- Rail Madad App: Official complaint and grievance app by Indian Railways.
+- Helpline Numbers:
+  - IRCTC Customer Care: 14646 / 0755-6610661 / 0755-4090600
+  - Indian Railways Helpline: 139 (24x7, multilingual)
+  - Railway Security (RPF): 182
+  - Food Complaint Helpline: 1800-111-321 (toll free)
+- Online complaint: www.railmadad.indianrailways.gov.in
+- Twitter: @IRCTCofficial / @RailMinIndia
+
+17. STATION & TRAIN ENQUIRY
+-----------------------------
+- Train running status: SMS "TRAIN <number>" to 139 or check IRCTC app.
+- Arrival/departure info: Call 139 or check National Train Enquiry System (NTES).
+- Station code lookup: Available on IRCTC website and app.
+- Coach position enquiry: Available at stations and on IRCTC app.
+
+18. IRCTC TOURISM PACKAGES
+----------------------------
+- IRCTC offers tour packages including Bharat Darshan, Buddhist Circuit, etc.
+- Packages include train, hotel, sightseeing and meals.
+- Book at: www.irctctourism.com
+- Special pilgrim trains for Char Dham, Tirupati, Shirdi, etc.
+
+19. WAITLIST RULES
+-------------------
+- Waitlisted passengers are NOT allowed to board if WL is not confirmed.
+- Exception: RAC passengers are allowed to travel and share a berth.
+- Final chart is prepared 4 hours before departure.
+- Check final chart status on IRCTC app or website.
+
+20. CHILD TICKET POLICY
+-------------------------
+- Children below 5 years: Free travel (no berth provided).
+- Children 5-11 years: Half fare with berth, full fare without berth.
+- Children 12 years and above: Full adult fare.
